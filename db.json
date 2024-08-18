@@ -1,0 +1,54 @@
+{
+    "albums": [
+      {
+        "title": "Echoes of Silence",
+      "description": "Explore the depths of solitude and reflection with 'Echoes of Silence', a collection that intertwines melancholic melodies with introspective lyrics.",
+      "songs": [
+        { "title": "Whispers in the Dark", "duration": "3:45" },
+        { "title": "Lonely Echo", "duration": "4:15" },
+        { "title": "Shadows Speak", "duration": "3:50" },
+        { "title": "Fading Light", "duration": "4:30" },
+        { "title": "Silent Thoughts", "duration": "3:55" },
+        { "title": "Midnight Soliloquy", "duration": "5:20" },
+        { "title": "Lost in Reverie", "duration": "4:05" },
+        { "title": "Ghost of a Smile", "duration": "3:40" },
+        { "title": "Murmurs of the Moon", "duration": "4:50" },
+        { "title": "Reflections of the Past", "duration": "4:25" }
+      ]
+      },
+      {
+        "title": "Rhythms of the Night",
+        "description": "Dance through the twilight hours with 'Rhythms of the Night', a vibrant mix of energetic beats and captivating rhythms that promise to light up any night.",
+        "songs": [
+          { "title": "Moonlight Dance", "duration": "3:30" },
+          { "title": "Twilight Pulse", "duration": "4:00" },
+          { "title": "Starry Groove", "duration": "3:25" },
+          { "title": "Neon Shadows", "duration": "4:45" },
+          { "title": "Echoes of the Party", "duration": "3:35" },
+          { "title": "Night Sky Rhythms", "duration": "5:15" },
+          { "title": "Urban Dreams", "duration": "3:55" },
+          { "title": "After Hours", "duration": "4:10" },
+          { "title": "City Lights Serenade", "duration": "4:05" },
+          { "title": "The Last Dance", "duration": "4:40" }
+        ]
+      },
+      {
+        "title": "Spotify Top 10",
+        "description": "A high-energy playlist featuring the most streamed songs on Spotify. Dive into the beats that have captivated listeners around the world.",
+        "songs": [
+          { "title": "Viral Sensation", "duration": "3:10" },
+          { "title": "Global Groove", "duration": "2:55" },
+          { "title": "Stream Me More", "duration": "3:35" },
+          { "title": "Echoes Through Phones", "duration": "4:00" },
+          { "title": "Digital Love", "duration": "3:50" },
+          { "title": "Playlist Domination", "duration": "4:15" },
+          { "title": "Sound Waves", "duration": "3:45" },
+          { "title": "Repeat Mode", "duration": "4:05" },
+          { "title": "Bass in My Heart", "duration": "3:25" },
+          { "title": "Eternal Summer", "duration": "4:30" }
+        ]
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,16 @@
+<div class="songs-container">
+  <p class="choose-title">choose the album</p>
+  <select [(ngModel)]="selectedAlbum" (change)="onAlbumChange(selectedAlbum.id)">
+    <option *ngFor="let album of albums" [ngValue]="album">
+      {{ album.title }}
+    </option>
+  </select>
+  <div *ngIf="selectedAlbum">
+    <h3>{{ selectedAlbum.title }}</h3>
+    <p>{{ selectedAlbum.description }}</p>
+    <div *ngFor="let song of selectedAlbum.songs" class="song-item">
+      <p>{{ song.title }} - {{ song.duration }}</p>
+      <button class="play-button">Play</button>
+    </div>
+  </div>
+</div>
