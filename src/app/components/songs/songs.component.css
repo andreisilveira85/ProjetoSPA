@@ -57,8 +57,12 @@ select:focus {
   padding: 8px 10px;
 }
 
-.h3, p {
+.h3 {
   color: #31c27c;
+}
+
+p {
+  color: #f8f8ff; 
 }
 
 .song-item {
